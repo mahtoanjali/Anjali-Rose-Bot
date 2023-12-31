@@ -274,7 +274,7 @@ done easily using the bot.
  - /demote: demotes the user replied to
  
  An example of set a link:
-`/setlink https://t.me/joinchat/HwiIk1RADK5gRMr9FBdOrwtae`
+`/setlink https://t.me/AnjalixSupportxGroup`
 
 An example of promoting someone to admins:
 `/promote @username`; this promotes a user to admins.
